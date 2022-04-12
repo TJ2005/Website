@@ -61,6 +61,24 @@
   color: #969696;
 }
 
+.link4 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.8vw;
+  color: inherit;
+  margin: 0px 5px 0px 5px;
+  transition: 0.5s;
+  color: #969696;
+}
+
+.link5 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.8vw;
+  color: inherit;
+  margin: 0px 5px 0px 5px;
+  transition: 0.5s;
+  color: #969696
+}
+
 .link1:hover {
   color: violet;
 }
@@ -71,4 +89,8 @@
 
 .link3:hover {
   color: white;
+}
+
+.link5:hover {
+  color: #1fdf64;
 }
